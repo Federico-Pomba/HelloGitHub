@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-printf ("Ciao questo è il repository di Federico Pomba")
+printf ("Ciao questo è il repository di Federico Pomba");
+ printf("Hello world!\n");
